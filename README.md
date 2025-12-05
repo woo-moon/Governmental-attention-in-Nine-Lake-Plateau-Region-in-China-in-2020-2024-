@@ -1,7 +1,7 @@
 # GovEco
 Original Data for research article: Unpacking the Problem- and Politically Driven Orientations in Governmental Decision-Making in Aquatic Ecology-Centered Watershed Governance: A Case Study of Nine-Plateau-Lake Region in China
 
-Files in the folder and data source:
+Files in the folder and data source (all texts published in Chinese):
 
 gpr_yunnan: policy texts released by People's Government of Yunnan, collected from https://www.yn.gov.cn/zwgk/zfgb/
 
